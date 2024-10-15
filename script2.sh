@@ -38,4 +38,5 @@
         fi
  }    
 
- is_balanced "$1"
+ is_balanced "$1"  #my script
+ #newly edit script
