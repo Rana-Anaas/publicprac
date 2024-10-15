@@ -20,4 +20,8 @@ is_armstrong() {
 }
 # Input number (pass as a command line argument)
 is_armstrong "$1"
+<<<<<<< HEAD
 #my 2nd script
+=======
+#my 2nd script  #newworking here
+>>>>>>> feature
